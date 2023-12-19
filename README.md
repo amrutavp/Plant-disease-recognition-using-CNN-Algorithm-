@@ -1,0 +1,1 @@
+Researched plant disease detection, collected 5996 images across 10 classes from PlantVillage and a Horticulture University Bagalkot. Preprocessed to 256x256 pixels, trained for 20 epochs with a batch size of 32. Augmented data with Keras ImageDataGenerator, used CNN architecture, evaluated performance with cross-entropy loss. Developed a strong image classification model.
